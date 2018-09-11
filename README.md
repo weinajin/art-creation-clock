@@ -6,4 +6,4 @@
  
  Users can frozen the shape formation process by pressing the mouse.
  
- A [processing](https://processing.org/) project.
+ A [processing 2](https://processing.org/) project.
