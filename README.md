@@ -1,4 +1,4 @@
-# art-creation-clock
+# Processing art: the clock
 
  this clock only exist when you "watch" it - here watching means moving the mouse.
  
